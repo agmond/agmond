@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dotan Agmon
 
-Security Champion | Senior Software Engineer | Founding Team Member at Jit
+Security Champion | Senior Software Engineer | Founding Team Member at [Jit](https://jit.io)
 
 ## 🚀 About Me
 
@@ -42,6 +42,7 @@ I'm a senior software engineer with a passion for security, clean code, and cont
 ## ✍️ Featured Articles
 
 - [My Discovery and Reporting of a Critical Data Exposure Vulnerability in Pango's System](https://drive.google.com/file/d/1VA_0Ua8-Q5UVv81D_jhNWcT6h77xINyS/view) (Hebrew)
+- [My Discovery and Reporting of a Security Vulnerability in an Online Bookstore](https://www.facebook.com/dotan.agmon/posts/%D7%9B%D7%A9%D7%A8%D7%90%D7%99%D7%AA%D7%99-%D7%90%D7%AA%D7%9E%D7%95%D7%9C-%D7%90%D7%AA-%D7%94%D7%A4%D7%95%D7%A1%D7%98-%D7%A9%D7%9C-ido-naor-%D7%94%D7%99%D7%93%D7%95%D7%A2-%D7%91%D7%9B%D7%99%D7%A0%D7%95%D7%99%D7%95-%D7%94%D7%90%D7%A7%D7%A8-%D7%A1%D7%98%D7%A0%D7%93%D7%A8%D7%98%D7%99-%D7%A2%D7%9C-%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%97%D7%93%D7%A9-%D7%A9%D7%94%D7%95%D7%90-/10158984430644207/) (Hebrew)
 - [The Security Risks of Forking](https://thenewstack.io/the-security-risks-of-forking/)
 - [MGM Hack Analysis: Security Still a Test of Your Weakest Link](https://thenewstack.io/mgm-hack-analysis-security-still-a-test-of-your-weakest-link/)
 
