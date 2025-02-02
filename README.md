@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dotan Agmon
 
-Security Champion | Senior Software Engineer | Founding Team Member at [Jit](https://jit.io)
+Security Champion | Senior Software Engineer | AppSec & DevSecOps Enthusiast
 
 ## 🚀 About Me
 
@@ -22,6 +22,12 @@ I'm a senior software engineer with a passion for security, clean code, and cont
 - Performance Optimization
 
 ## 🏢 Professional Experience
+
+### Seal Security (2025 - Present)  
+**Senior Software Engineer**  
+- Developing cutting-edge security solutions to protect modern applications  
+- Enhancing security automation and orchestration for better vulnerability management  
+- Contributing to research and development efforts in application security
 
 ### Jit (2021-2024)
 **Security Champion, Founding Team Member & Senior Software Engineer**
