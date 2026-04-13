@@ -23,7 +23,7 @@ I'm a senior software engineer with a passion for security, clean code, and cont
 
 ## 🏢 Professional Experience
 
-### Seal Security (2025 - Present)  
+### Seal Security (2025 - 2026)  
 **Senior Software Engineer**  
 - Developing cutting-edge security solutions to protect modern applications  
 - Enhancing security automation and orchestration for better vulnerability management  
